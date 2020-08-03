@@ -4,13 +4,13 @@
 
 
 
-Work Experience
+###Work Experience
 
 Lambda School    January 2020 – May 2020
 
 Data Science Team Lead – Los Angeles, CA
 
-Managed a group of data science students within the Lambda School data science program. 
+-Managed a group of data science students within the Lambda School data science program.  
 
 Debugging students code with python, python libraries and developer technologies (Pandas, NumPy, Plotly, PCA, Scikit-Learn, Flask, SQL, Git, Bash). 
 
@@ -31,7 +31,8 @@ Worked with the NLP team at Ignitus to help build their NLP modules for their le
 Researched different NLP technologies (spaCy, NLTK, Word2Vec, TF-IDF, Count Vectorizer) that can contribute to their data science curriculum. 
 
 
-Projects
+
+###Projects
 
 Subreddit Finder
 
@@ -54,11 +55,11 @@ Utilized WordCloud and matplotlib for data exploration/visualization of the most
 Used both Gensim LDA and Latent Dirichlet Allocation for topic modeling. 
 
 
-Skills
+###Skills
 
 Python, SQL, HTML, CSS, Flask, Scikit-Learn, TensorFlow, NLP, Power BI, Excel, Git, Linux, Dashboards, Probability and Statistics, Risk Analysis, Communication, Product Management 
 
- Education
+### Education
 
 Lambda School, Data Science    2019 – 2020
 
